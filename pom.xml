@@ -7,6 +7,13 @@
     <groupId>com.github.qishenghe</groupId>
     <artifactId>hugin-demo</artifactId>
     <version>1.0.1</version>
+    <name>hugin-demo</name>
+    <description>Demo of Hugin</description>
+    <url>https://github.com/qishenghe/hugin-demo.git</url>
+
+    <properties>
+        <java.version>1.8</java.version>
+    </properties>
 
 
 </project>
