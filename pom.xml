@@ -34,12 +34,6 @@
             <scope>provided</scope>
         </dependency>
 
-        <dependency>
-            <groupId>com.github.qishenghe</groupId>
-            <artifactId>munin</artifactId>
-            <version>1.0.7</version>
-        </dependency>
-
     </dependencies>
 
 
